@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1412434926 source:c:\erikprogram\dance_pad_input\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<D3D/dinput.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<ctime>
+	<string>
+	<windows.h>
+

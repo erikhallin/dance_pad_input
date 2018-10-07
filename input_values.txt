@@ -1,0 +1,13 @@
+ingen knapp nedtryckt: 32511, 32511
+
+up: 32511, 0
+ner: 32511, 65535
+vänster: 0, 32511
+höger: 65535, 32511
+
+upp+ner: 32511, 32767
+upp+vänster: 0, 0
+upp+höger: 65535, 0
+vänster+höger: 32767, 32511
+vänster+ner: 0, 65535
+ner+höger: 65536, 65535
